@@ -1,0 +1,5 @@
+C:\Users\vipee\LibraryManagementSystem\LibraryAPI\LibraryApi.Tests\obj\Debug\net8.0\LibraryApi.Tests.csproj.AssemblyReference.cache
+C:\Users\vipee\LibraryManagementSystem\LibraryAPI\LibraryApi.Tests\obj\Debug\net8.0\LibraryApi.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vipee\LibraryManagementSystem\LibraryAPI\LibraryApi.Tests\obj\Debug\net8.0\LibraryApi.Tests.AssemblyInfoInputs.cache
+C:\Users\vipee\LibraryManagementSystem\LibraryAPI\LibraryApi.Tests\obj\Debug\net8.0\LibraryApi.Tests.AssemblyInfo.cs
+C:\Users\vipee\LibraryManagementSystem\LibraryAPI\LibraryApi.Tests\obj\Debug\net8.0\LibraryApi.Tests.csproj.CoreCompileInputs.cache

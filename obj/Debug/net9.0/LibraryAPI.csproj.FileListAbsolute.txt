@@ -1,0 +1,7 @@
+C:\Users\vipee\LibraryManagementSystem\LibraryAPI\obj\Debug\net9.0\LibraryAPI.csproj.AssemblyReference.cache
+C:\Users\vipee\LibraryManagementSystem\LibraryAPI\obj\Debug\net9.0\LibraryAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vipee\LibraryManagementSystem\LibraryAPI\obj\Debug\net9.0\LibraryAPI.AssemblyInfoInputs.cache
+C:\Users\vipee\LibraryManagementSystem\LibraryAPI\obj\Debug\net9.0\LibraryAPI.AssemblyInfo.cs
+C:\Users\vipee\LibraryManagementSystem\LibraryAPI\obj\Debug\net9.0\LibraryAPI.csproj.CoreCompileInputs.cache
+C:\Users\vipee\LibraryManagementSystem\LibraryAPI\obj\Debug\net9.0\LibraryAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vipee\LibraryManagementSystem\LibraryAPI\obj\Debug\net9.0\LibraryAPI.MvcApplicationPartsAssemblyInfo.cache
